@@ -1,6 +1,6 @@
 tldextract==3.4.4
 python-whois==0.8.0
-langchain==0.0.209
+langchain==0.0.281
 openai==0.27.8
 pydantic
 duckduckgo-search
